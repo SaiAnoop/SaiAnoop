@@ -24,7 +24,6 @@
   <a href="https://github.com/SaiAnoop">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SaiAnoop&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="SaiAnoop's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=SaiAnoop&theme=dark&hide_border=true&cache_seconds=86400" alt="SaiAnoop's GitHub Streak" width="49%" />
 </p>
 
 
